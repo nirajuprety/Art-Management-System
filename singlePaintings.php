@@ -1,0 +1,1 @@
+<!-- this page will show the details of the paintings -->
